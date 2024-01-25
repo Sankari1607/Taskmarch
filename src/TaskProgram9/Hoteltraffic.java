@@ -36,9 +36,11 @@ public class Hoteltraffic {
 			default: 
 				
 				System.out.println( "The Amount is:" + stay*room_rent);
-			
+
+				
 		}
 		
 	}
 
 }
+
